@@ -4,12 +4,23 @@ title: Paralisia Facial
 overview: true
 ---
 
-# Últimos Artigos
-{% for post in site.posts %}
-##[{{ post.title }}]({{ post.url }})
-{% endfor %}
+<h2>A Paralisia Facial é um distúrbio (parésia) ou uma paralisia total de todos, ou alguns, músculos da expressão facial.</h2>
 
-# Paralisia Facial
+<p><img src="assets/paralisiafacial.png" alt="Paralisia Facial" /></p>
+
+<hr/>
+
+<span class="latest-article">Últimos artigos</span>
+
+<ul class="index">
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="date">{{ post.date | date: "%-d/%m/%Y" }}</span></li>
+  {% endfor %}
+</ul>
+
+<br/>
+
+<span class="latest-article">Paralisia Facial</span>
 
 * [Paralisia](paralisia-facial-paralisia.html)
 * [Definição](paralisia-facial-definicao.html)
@@ -24,7 +35,7 @@ overview: true
 * [Exercícios Faciais](paralisia-facial-exercicios-faciais.html)
 * [Paralisia de Bell](paralisia-de-bell.html)
 
-# Face
+<span class="latest-article">Face</span>
 
 * [Ossos da Face](paralisia-facial-ossos-da-face.html)
 * [Pele da face](paralisia-facial-pele-da-face.html)
