@@ -1,1 +1,4 @@
 permalink: /paralisia-facial-:title.html
+markdown: kramdown
+gems:
+  - jekyll-sitemap
