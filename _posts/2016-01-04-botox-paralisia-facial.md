@@ -14,3 +14,5 @@ O uso do Botox® é considerado um tratamento muito importante para esses pacien
 A aplicação deve ser realizada por um médico dermatologista e o método é simples, rápido e não-invasivo. Ainda que os efeitos da toxina sejam temporários, mesmo após 180 dias da aplicação mais de 75% dos pacientes disseram estar satisfeitos ou muito satisfeitos com os resultados dessa terapia. Além disso, a aplicação da toxina nos pacientes com paralisia facial é considerada uma técnica segura, uma vez que, poucos e limitados eventos adversos foram observados nos pacientes.
 
 Um dos principais benefícios desse tratamento está associado a qualidade de vida e o bem-estar do paciente. Diversos estudos observaram melhorias estéticas e funcionais muito expressivas, o que acarreta na melhora da autoimagem e habilidade de expressão. O uso da toxina botulínica pode ser considerado um recurso indispensável e, até mesmo, o principal tratamento para os pacientes com paralisia facial.
+
+Importante lembrar que este artigo é apenas informativo, todos os tratamentos deverão ser recomendados pelo seu médico.
